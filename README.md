@@ -1,8 +1,8 @@
-# Studying NGS data analysis and algorithm
-The repository is for studying NGS data analysis and algorithm.
+# Studying NGS data analysis
+The repository is for studying the methods of NGS data analysis.
 ***
 ##Introduction
-- [RaceID](https://github.com/dgrun/RaceID)
+- [RaceID](https://github.com/dgrun/RaceID)  
 Infor:  
 RaceID is an algorithm for the identification of rare and abundant cell types from single cell transcriptome data. The method is based on transcript counts obtained with unique molecular identifies.
 
